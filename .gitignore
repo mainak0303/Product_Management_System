@@ -13,9 +13,7 @@ logs/
 *.log
 *.log.*
 
-# Environment variables
-.env
-.env.*.local
+
 
 # OS
 .DS_Store
